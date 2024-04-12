@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning CSS and JavaScript
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me; jacobstrings123@yahoo.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love to code alot!
 
 <!---
